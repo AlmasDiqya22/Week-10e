@@ -1,5 +1,15 @@
 # Week-10e
 Tugas Artificial Intelligent and Aplication Week 10
+
+Nama	          	: Almas Diqya Wafa’
+NIM		           : 5311421005
+Prodi		         : Teknik Elektro
+Mata Kuliah	    : Artificial Intellegent and Aplication
+Rombel	         : Senin 09.00
+
+MODUL 5
+“Teknik Heuristic Search”
+
 1.	Pelajari class EightPuzzleSearch, EightPuzzleSpace, dan Node.
 a.	EightPuzzleSearch
 Merupakan kelas yang mewakili algoritma pencarian (seperti A* atau BFS) yang digunakan untuk menyelesaikan masalah teka-teki delapan angka (Eight-Puzzle). Kelas ini mengimplementasikan logika untuk menjalankan pencarian, memantau keadaan ruang masalah, dan menghasilkan solusi.
